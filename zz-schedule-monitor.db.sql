@@ -36,7 +36,7 @@ INSERT INTO columns_metadata VALUES(27,1,'ts','DATE_TIME',1,NULL);
 INSERT INTO columns_metadata VALUES(29,8,'ts','DATE_TIME',3,NULL);
 INSERT INTO columns_metadata VALUES(30,8,'label','TEXT',1,NULL);
 INSERT INTO columns_metadata VALUES(31,8,'pos','INTEGER',2,NULL);
-INSERT INTO columns_metadata VALUES(32,7,'ts','DATE_TIME',8,NULL);
+INSERT INTO columns_metadata VALUES(32,7,'ts','DATE_TIME',1,NULL);
 INSERT INTO columns_metadata VALUES(33,7,'followup','RELATIONSHIP',1,30);
 INSERT INTO columns_metadata VALUES(34,7,'primary_nne_total','TEXT',2,NULL);
 INSERT INTO columns_metadata VALUES(35,7,'sec_1_nne_ward','TEXT',3,NULL);
