@@ -18,8 +18,6 @@
 
 Мониторинг начался по плану 4 мая.
 
-Опубликованы [сырые данные (журнал с записями) за первую неделю в виде полного дампа базы](https://github.com/pussiatoday/zz-schedule-monitor/blob/ff5398f8e469fa749ea6d73821430b603596b54c/zz-schedule-monitor.db.sql). Перед дампом из журнала удалил поле `note`, так как содержало персональные данные других лиц.
-
 Первые результаты опубликованы по плану 11 мая (за прошедшую неделю): доступны в виде [дампа базы](https://github.com/pussiatoday/zz-schedule-monitor/blob/2cac9f83a90f243e2294a473735ccd8bc06d9f9e/zz-schedule-monitor.db.sql) либо [итоговой таблицы](https://github.com/pussiatoday/zz-schedule-monitor/blob/2cac9f83a90f243e2294a473735ccd8bc06d9f9e/zz-schedule-monitor%20-%20a_result.csv).
 
 В таблице все числа (NNE) чем меньше, тем лучше, кроме последних трех (NNM), которые, наоборот, чем больше, тем лучше.
