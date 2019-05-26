@@ -1,6 +1,6 @@
 select /* a_result */ 'primary_nne_total' label, sum (case c26 when 1 then 1.0 else 0.0 end) eligible, count (*) total, round (count (*) / sum (case c26 when 1 then 1.0 else 0.0 end), 1) nn
 from t1
-where id > 0 and id < 20
+where id > 20 and id < 42
 union all
 select /* a_result */ 'sec_1_nne_ward' label, sum (case c26 when 1 then 1.0 else 0.0 end) eligible, count (*) total, round (count (*) / sum (case c26 when 1 then 1.0 else 0.0 end), 1) nn
 from t1 left join t4 on c25=t4.id

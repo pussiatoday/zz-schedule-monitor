@@ -132,7 +132,7 @@ INSERT INTO t6 VALUES(2,'Экспертиза',replace('Сделать хотя 
 INSERT INTO t6 VALUES(3,'Подготовка',replace('Испытать a sense of pride and accomplishment.\nThe sense of pride and accomplishment, полученное от игры в Battlefront и решения прочих непрактичных задач, не в счет.\nТолько the sense of pride and accomplishment, полученное от выполнения задач, имеющих практическое значение.\nРазделение, что считать практичным, а что нет, остается на мое усмотрение.\nВ сложных случаях соответствие следует определять по велению сердца.','\n',char(10)),'2019-05-03 18:09');
 CREATE TABLE t7 (id INTEGER PRIMARY KEY AUTOINCREMENT, c32 TEXT, c33 INTEGER REFERENCES t8(id) ON DELETE SET NULL DEFERRABLE INITIALLY DEFERRED, c34 TEXT, c35 TEXT, c36 TEXT, c37 TEXT, c38 TEXT, c39 TEXT, c40 TEXT, c41 TEXT, c42 TEXT, c43 TEXT, c44 TEXT, c45 TEXT, c46 TEXT, c47 TEXT, c48 TEXT, c49 TEXT);
 INSERT INTO t7 VALUES(1,'2019-05-11 15:33',1,'7','3','NaN','9','20',NULL,'3','2','NaN','2','4','24','14','NaN','173','385');
-INSERT INTO t7 VALUES(2,'2019-05-18 22:15',1,'7','1','NaN','3','20',NULL,'3','1','NaN','2','4','24','3','NaN','7','385');
+INSERT INTO t7 VALUES(2,'2019-05-18 22:15',1,'3','1','NaN','3','20',NULL,'2','1','NaN','2','4','4','3','NaN','7','385');
 CREATE TABLE t8 (id INTEGER PRIMARY KEY AUTOINCREMENT, c29 TEXT, c30 TEXT, c31 BIGINT);
 INSERT INTO t8 VALUES(1,'2019-05-10 19:55','За прошедшую неделю',1);
 INSERT INTO t8 VALUES(2,'2019-05-10 19:55','За прошедший месяц',2);
