@@ -30,7 +30,7 @@
 * а _a sense of pride and accomplishment_ испытывал только каждый 173-й раз из тех, когда должен был,
 * при этом каждый 4-й период по тем или иным причинам выпадал из мониторинга.
 
-Вторые результаты опубликованы по плану 18 мая (за прошедшую неделю): доступны в виде [дампа базы](https://github.com/pussiatoday/zz-schedule-monitor/blob/38fb3203b7c5c70e43cbb2a9df818048395ecb9a/zz-schedule-monitor.db.sql) либо [итоговой таблицы](https://github.com/pussiatoday/zz-schedule-monitor/blob/38fb3203b7c5c70e43cbb2a9df818048395ecb9a/zz-schedule-monitor%20-%20a_result.csv).
+Вторые результаты опубликованы по плану 18 мая (за прошедшую неделю): доступны в виде [дампа базы](https://github.com/pussiatoday/zz-schedule-monitor/blob/b04fe5565d897d0e363987625ebf345e20206629/zz-schedule-monitor.db.sql) либо [итоговой таблицы](https://github.com/pussiatoday/zz-schedule-monitor/blob/b04fe5565d897d0e363987625ebf345e20206629/zz-schedule-monitor%20-%20a_result.csv).
 
 За неделю с 11 по 17 мая, в среднем, с поправкой на случайную ошибку выборки:
 
