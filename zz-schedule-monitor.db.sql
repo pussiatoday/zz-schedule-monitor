@@ -175,6 +175,7 @@ INSERT INTO t7 VALUES(1,'2019-05-11 15:33',1,'7','3','NaN','9','20',NULL,'3','2'
 INSERT INTO t7 VALUES(2,'2019-05-18 22:15',1,'3','1','NaN','3','20',NULL,'2','1','NaN','2','4','4','3','NaN','7','385');
 INSERT INTO t7 VALUES(3,'2019-05-26 14:35',1,'3','2','NaN','3','NaN',NULL,'2','2','NaN','2','NaN','7','6','NaN','8','NaN');
 INSERT INTO t7 VALUES(4,'2019-06-01 19:54',1,'3','2','5','4','NaN',NULL,'2','2','2','2','NaN','7','6','96','13','NaN');
+INSERT INTO t7 VALUES(6,'2019-06-01 20:36',2,'3','2','20','4','NaN',NULL,'3','2','4','3','NaN','5','3','385','6','NaN');
 CREATE TABLE t8 (id INTEGER PRIMARY KEY AUTOINCREMENT, c29 TEXT, c30 TEXT, c31 BIGINT);
 INSERT INTO t8 VALUES(1,'2019-05-10 19:55','За прошедшую неделю',1);
 INSERT INTO t8 VALUES(2,'2019-05-10 19:55','За прошедший месяц',2);
@@ -194,5 +195,5 @@ INSERT INTO sqlite_sequence VALUES('t5',2);
 INSERT INTO sqlite_sequence VALUES('t6',3);
 INSERT INTO sqlite_sequence VALUES('t1',82);
 INSERT INTO sqlite_sequence VALUES('t8',7);
-INSERT INTO sqlite_sequence VALUES('t7',5);
+INSERT INTO sqlite_sequence VALUES('t7',6);
 COMMIT;
