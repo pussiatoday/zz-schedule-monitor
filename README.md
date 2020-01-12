@@ -1,8 +1,32 @@
-# Новый режим: проспективный мониторинг соблюдения в соответствии с протоколом, опубликованным до начала исследования
+# Новый режим: проспективный мониторинг соблюдения в соответствии с протоколом, опубликованным до начала исследования | New daily schedule: a prospective monitoring of staying on schedule according to a protocol published before the start of the study
+
+## Cancellation announcement and public apology | Объявление об отмене и публичное извинение
+
+I hereby announce the cancellation of any work related to this repository. I apologize to any reader of the repository for broken promises. You may find my blockquoted commentaries down below.
+
+I do no longer have time nor wish to continue on this path.
+
+Also, in a linguistic struggle between Russian and English in me I can’t help but lean toward using English. So about that, too, I’m sorry.
+
+I’m going to disseminate this statement across several related repositories, which I once started but can no longer support. After this, the repositories will be archived.
+
+One last thing: Before archiving the repo, I’m going to rename it from `zz-schedule-monitor` to `schedule-monitor`, because I’m as of now dropping this ISO-3166-1-alpha-2-based naming scheme for my personal repos. It shouldn’t hurt anyone, as I don’t believe anyone had it referenced or cloned before, and all my previous links that led to such repos were in connection with my http://pussia.today domain, which I no longer own.
+
+> Настоящим объявляю отмену какой бы то ни было работы, связанной с этим репозиторием. Я приношу извинения какому бы то ни было читателю этого репозитория за несдержанные обещания. Вы можете найти мои комментарии в виде цитат ниже.
+>
+> У меня более нет ни времени, ни желания продолжать этот путь.
+>
+> Кроме того, в лингвистической борьбе между русским и английским во мне я не могу не склоняться к использованию английского. Так что за это я также извиняюсь.
+>
+> Я собираюсь распространить это заявление по нескольким связанным репозиториям, которые однажды запустил, но более не могу поддерживать. После этого репозитории будут архивированы.
+>
+> И последнее: прежде, чем архивировать репозиторий, я собираюсь переименовать его из `zz-schedule-monitor` в `schedule-monitor`, потому что с этого момента отказываюсь от этой основанной на ISO-3166-1 альфа-2 схемы именования для моих личных реп. Это не должно кому-либо повредить, поскольку не думаю, что кто-либо ссылался на него или клонировал его прежде, и все мои предыдущие ссылки на такие репы были в связи с моим доменом http://pussia.today, которым я более не владею.
 
 ## Новый режим
 
 [Оригинальный пост с новым режимом на pussia.today](http://pussia.today/2019/02/02/new-schedule/).
+
+> The domain is no longer functional, and the schedule was dropped long ago. In fact, the very idea of having and following a strict daily schedule was dropped, because I’ve found myself totally unreceptive of that. I like to have natural flexibility in my life. What can’t be made inherently flexible because it’s in its nature (like work shifts), remains fixed, but for the rest of it, I like to let it flow by default and see how it all turns out.
 
 ## Протокол мониторинга
 
